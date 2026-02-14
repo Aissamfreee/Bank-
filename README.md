@@ -7,6 +7,7 @@ Features:
 
 Add new client
 Delete existing client
+
 Update client information
 Find client by account number
 Deposit & Withdraw operations
