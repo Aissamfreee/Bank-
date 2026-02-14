@@ -6,11 +6,10 @@ The system stores client data in a text file and provides full control over acco
 Features:
 
 Add new client
-Delete existing client
-
-Update client information
-Find client by account number
-Deposit & Withdraw operations
-Display all clients
-Persistent storage using text files
-Console-based interactive menu
+Delete existing client _ 
+Update client information _ 
+Find client by account number _ 
+Deposit & Withdraw operations _ 
+Display all clients _ 
+Persistent storage using text files _ 
+Console-based interactive menu 
